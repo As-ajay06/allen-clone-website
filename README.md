@@ -15,4 +15,4 @@ If you are developing a production application, we recommend using TypeScript an
 ## steps involve in creating Allen-clone-website
 
 - create a latest vite/react project.
-
+- add routing.
